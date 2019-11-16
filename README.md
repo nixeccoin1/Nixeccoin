@@ -1,0 +1,2 @@
+# nixeccoin
+NIXEC COIN 
